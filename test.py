@@ -5,7 +5,7 @@ print(x)
 
 def yaz():
     print("Welcome")
-    print("selamlarrr")
+    print("ArtıkOlsun")
     print("berk")
 
 yaz()
