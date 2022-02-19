@@ -6,6 +6,6 @@ print(x)
 def yaz():
     print("Welcome")
     print("selamlarrr")
-    print("hii")
+    print("hi")
 
 yaz()
